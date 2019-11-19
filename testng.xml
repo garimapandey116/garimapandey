@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="selenium.practice.java.chroma.TestNgDemo1"/>
+      <class name="selenium.practice.java.chroma.TestNgDemo2"/>
+      <class name="selenium.practice.java.chroma.TestNgDemo5"/>
+      <class name="selenium.practice.java.chroma.TestNg1"/>
+      <class name="selenium.practice.java.chroma.TestNgDemo3"/>
+      <class name="selenium.practice.java.chroma.TestNg2"/>
+      <class name="selenium.practice.java.chroma.TestNgDemo4"/>
+      <class name="selenium.practice.java.chroma.TestNg3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
